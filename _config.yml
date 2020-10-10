@@ -999,4 +999,4 @@ images: images
 # 首页显示摘要
 auto_excerpt:
   enable: true
-  length: 150
+  length: 30
