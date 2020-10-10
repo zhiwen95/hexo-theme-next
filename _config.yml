@@ -232,7 +232,7 @@ chat:
 # ---------------------------------------------------------------
 
 # Automatically excerpt description in homepage as preamble text.
-excerpt_description: false
+excerpt_description: true
 
 # Read more button
 # If true, the read more button will be displayed in excerpt section.
@@ -995,3 +995,8 @@ vendors:
 css: css
 js: js
 images: images
+
+# 首页显示摘要
+auto_excerpt:
+  enable: true
+  length: 150
